@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM5",
+    "output": ".\\build",
+    "sketch": "practice\\blink\\blink.ino"
+}

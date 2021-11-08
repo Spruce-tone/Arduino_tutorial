@@ -1,0 +1,7 @@
+# formats
+**/*.pdf
+**/*.7z
+
+# directories
+drone
+libraries
